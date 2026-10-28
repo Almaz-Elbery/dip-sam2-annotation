@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Project data and model files (too large for git)
+data/
+sam2/
+*.pt
+*.pth
